@@ -7,4 +7,4 @@ def login(username, password):
         return "Login Failed"
 
 print(login("admin", "123"))
-print("Version B - Improved login system")
+print("Version A and Version B merged successfully")
