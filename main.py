@@ -7,3 +7,5 @@ def login(username, password):
         return "Login Failed"
 
 print(login("admin", "123"))
+print("Testing git stash feature")
+print("Version A - Login system working")
